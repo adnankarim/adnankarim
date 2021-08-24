@@ -1,16 +1,26 @@
-### Hi there 👋
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Adnan]
 
-<!--
-**adnankarim/adnankarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Engineer (MERN, DJANGO, FLASK,DEEP LEARNING AND MACHINE LEARING)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnankarim&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnankarim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[twitter]: https://www.linkedin.com/in/adnan-karim-dl/
+[devto]: https://dev.to/adnankarim
+
+
+---
+
+
+## Support Me!
+You can show support by starring my repos.
+
+
+Thank you all so much 🙏
