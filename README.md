@@ -11,9 +11,10 @@
 [Visit Portfolio](https://adnankarim.netlify.app/)
 ---
 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Creskendoll&theme=blue-green&hide_border=true" alt="Creskendoll" />
+</p>
 
-## Support Me!
-You can show support by starring my repos.
 
 
-Thank you all so much 🙏
+Thank you all  🙏
