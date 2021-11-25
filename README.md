@@ -6,7 +6,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnankarim&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnankarim&hide=java,html,css&theme=dracula" alt="Creskendoll" />
+</p>
 
 
 [Visit Portfolio](https://adnankarim.netlify.app/)
