@@ -1,6 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Adnan]
 
-##  Full Stack Engineer (MERN STACK,PyTorch,Tensorflow,Keras)
+##  Full Stack Engineer (MERN STACK,FLASK,DJANGO,PyTorch,Tensorflow,Keras)
 
 
 
