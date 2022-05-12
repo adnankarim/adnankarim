@@ -1,6 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Adnan]
 
-##  Full Stack Engineer (MERN STACK,FLASK,DJANGO,PyTorch,Tensorflow,Keras)
+##  Full Stack Engineer (MERN STACK,FLASK,PyTorch,Tensorflow,Keras)
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnankarim&hide=java,html,css&theme=dracula" alt="Creskendoll" />
 </p>
