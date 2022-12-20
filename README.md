@@ -19,7 +19,6 @@ In terms of technical skills, I am proficient in a variety of programming langua
 
 Thank you for visiting my profile, and please feel free to take a look at my projects to see the work I have done. I am always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnankarim&label=Profile%20views&color=0e75b6&style=flat" alt="adnankarim" /> </p>
 
