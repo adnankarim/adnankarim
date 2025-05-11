@@ -1,4 +1,4 @@
-# Adnan Karim Khan
+# Adnan Karim
 
 Welcome to my GitHub profile!
 
