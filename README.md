@@ -1,5 +1,5 @@
 # Adnan Karim  
-** AI Engineer | Data Scientist**
+**AI Engineer | Data Scientist**
 
 **MSc Data Science, EURECOM (France)**  
 Experienced in large language models, computer vision, multi-agent systems, and end-to-end MLOps. Skilled at building intelligent, production-grade systems for NLP, finance, and enterprise knowledge solutions.
