@@ -1,19 +1,33 @@
-# Adnan Karim
+# Adnan Karim  
+** AI Engineer | Data Scientist**
 
-Welcome to my GitHub profile!
+**MSc Data Science, EURECOM (France)**  
+Experienced in large language models, computer vision, multi-agent systems, and end-to-end MLOps. Skilled at building intelligent, production-grade systems for NLP, finance, and enterprise knowledge solutions.
 
-## Data Scientist | Software Engineer
+---
 
-I am a Data Scientist and Software Engineer passionate about technology. My expertise spans various programming languages and tools used in data science, machine learning, and software development.
+## 🛠️ Technical Skills
 
-### Technical Skills
-- **Languages:** Python, JavaScript, C++
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
-- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
-- **Cloud & Deployment:** AWS (SageMaker, EC2), Heroku, Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Development Frameworks:** Flask, Express.js, Next.js, React, Node.js
+### Languages
+- Python, JavaScript, C++, SQL, HTML, CSS
 
+### Machine Learning
+- PyTorch, TensorFlow, Scikit-learn, Keras, FastAPI, OpenCV, Unity ML-Agents
+
+### Data Science
+- NumPy, Pandas, Matplotlib, Seaborn, Spark
+
+### Agentic AI & RAG
+- LangChain, OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP (Multi-Agent Control Plane)
+
+### Cloud & Deployment
+- Google Cloud (Vertex AI, Cloud Run, GKE), AWS, Azure, Docker, Kubernetes
+
+### MLOps
+- MLflow, Comet-ML, TensorBoard, DVC, GitHub Actions, Jenkins, ArgoCD, Airflow
+
+### Databases
+- PostgreSQL, Redis, SQLite
 ### Projects & Contributions
 I actively work on projects related to AI, data science, and full-stack development. Feel free to explore my repositories to see my latest work. I am always open to collaboration and new opportunities.
 
