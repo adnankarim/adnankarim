@@ -1,54 +1,102 @@
-# Adnan Karim  
-**AI Engineer | Data Scientist**
+# 👋 Hi, I'm Adnan Karim
 
-**MSc Data Science, EURECOM (France)**  
-Experienced in large language models, computer vision, multi-agent systems, and end-to-end MLOps. Skilled at building intelligent, production-grade systems for NLP, finance, and enterprise knowledge solutions.
+🚀 AI Engineer | Data Scientist  
+🎓 MSc Data Science @ EURECOM (France)
+
+I build **production-grade AI systems** using LLMs, RAG, multi-agent architectures, and scalable MLOps pipelines.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
 
-### Languages
-- Python, JavaScript, C++, SQL, HTML, CSS
+- 🔍 Specialized in **LLMs, RAG pipelines, and recommender systems**
+- 🤖 Building **agentic AI systems** with real-world impact
+- ⚙️ Strong focus on **end-to-end ML systems (data → model → deployment)**
+- ☁️ Experienced with **cloud + scalable infrastructure (GCP, AWS, Kubernetes)**
 
-### Machine Learning
-- PyTorch, TensorFlow, Scikit-learn, Keras, FastAPI, OpenCV, Unity ML-Agents
+---
 
-### Data Science
-- NumPy, Pandas, Matplotlib, Seaborn, Spark
+## 🚀 Featured Projects
 
-### Agentic AI & RAG
-- LangChain, OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP (Multi-Agent Control Plane)
+### 🔹 TalentMind AI — Intelligent Resume Search
+> Agentic RAG system for recruiter-focused candidate search
 
-### Cloud & Deployment
-- Google Cloud (Vertex AI, Cloud Run, GKE), AWS, Azure, Docker, Kubernetes
+- 🧠 GPT-based intent understanding
+- 🔎 Hybrid Retrieval (Dense + BM25 + RRF)
+- 📊 Cross-encoder reranking + evidence extraction
+- ⚡ Real-time system with FastAPI + Node.js + MongoDB
 
-### MLOps
-- MLflow, Comet-ML, TensorBoard, DVC, GitHub Actions, Jenkins, ArgoCD, Airflow
+📈 Improved ranking quality (Precision@K, nDCG) over baseline retrieval systems
 
-### Databases
-- PostgreSQL, Redis, SQLite
-### Projects & Contributions
-I actively work on projects related to AI, data science, and full-stack development. Feel free to explore my repositories to see my latest work. I am always open to collaboration and new opportunities.
+---
 
-### Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/adnan-karim-dl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adnankarim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+### 🔹 Diffusion-Based Virtual Cell Simulator
+> Generative AI for biological simulation
 
-### Tools & Technologies
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazonaws/amazonaws-icon.svg" alt="AWS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+- 🧬 Conditional diffusion models (DDPM + UNet)
+- ⚙️ Optimization via Evolution Strategies vs PPO
+- 📊 Achieved **~25% improvement in generation quality (FID)**
 
-Thank you for visiting my profile!
+---
 
+### 🔹 SoundGuard AI — Audio Anomaly Detection
+> Unsupervised industrial fault detection
+
+- 🎧 AST + PANN encoders + UNet decoder
+- 📊 **AUC: 0.943 (+22 pts over baseline)**
+- 🔍 Detects anomalies without labeled data
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` `JavaScript` `C++` `SQL`
+
+### 🤖 AI / ML
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`  
+`Transformers` `Diffusion Models` `LLMs` `RAG`
+
+### 🧠 Agentic AI
+`LangGraph` `LangChain` `AutoGen` `CrewAI`  
+`Multi-Agent Systems` `Reasoning Models`
+
+### ⚙️ MLOps & Infra
+`Docker` `Kubernetes` `CI/CD` `TensorRT`  
+`MLflow` `Airflow` `DVC`
+
+### ☁️ Cloud
+`GCP` `AWS` `Azure`
+
+### 🗄️ Databases
+`MongoDB` `FAISS` `Pinecone` `Qdrant`
+
+---
+
+## 💼 Experience Highlights
+
+- 🚀 Built large-scale recommender system with **~90% accuracy in filtering irrelevant results**
+- ⚡ Achieved **8× throughput** using GPU optimization (A100, TensorRT)
+- 📉 Reduced latency by **~40%** in production ML systems
+- 📊 Improved prediction accuracy by **~25–30%** across multiple domains
+
+---
+
+## 🏆 Achievements
+
+- 🥉 3rd Place — Global TiE Hackathon (1400+ teams)
+- 💻 275+ LeetCode problems solved
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://adnankarim.dev  
+- 💼 LinkedIn: https://www.linkedin.com/in/adnan-karim-dl  
+- 📧 Email: adnankaremjs@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems where **AI doesn’t just predict — it reasons, retrieves, and acts.**
