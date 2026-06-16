@@ -69,7 +69,7 @@ I build **production-grade AI systems** using LLMs, RAG, multi-agent architectur
 `GCP` `AWS` `Azure`
 
 ### 🗄️ Databases
-`MongoDB` `FAISS` `Pinecone` `Qdrant`
+`MongoDB` `FAISS` `Pinecone` `Qdrant` `Postgresql` `Neo4j`
 
 ---
 
