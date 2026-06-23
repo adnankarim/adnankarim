@@ -3,13 +3,13 @@
 🚀 AI Engineer | Data Scientist  
 🎓 MSc Data Science @ EURECOM (France)
 
-I build **production-grade AI systems** using LLMs, RAG, multi-agent architectures, and scalable MLOps pipelines.
+I build **production-grade AI systems** using SOTA research across Knowledge Grpahs, Drug Discovery, LLMs, RAG, multi-agent architectures, and scalable MLOps pipelines.
 
 ---
 
 ## 🧠 About Me
 
-- 🔍 Specialized in **LLMs, RAG pipelines, and recommender systems**
+- 🔍 Specialized in ** SOTA research across Knowledge Grpahs, LLMs, RAG pipelines, and recommender systems**
 - 🤖 Building **agentic AI systems** with real-world impact
 - ⚙️ Strong focus on **end-to-end ML systems (data → model → deployment)**
 - ☁️ Experienced with **cloud + scalable infrastructure (GCP, AWS, Kubernetes)**
