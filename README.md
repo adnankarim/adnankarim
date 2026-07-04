@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adnan Karim
 
 🚀 AI Engineer | Data Scientist  
-🎓 MSc Data Science @ EURECOM (France)
+🎓 MSc Data Science 
 
 I build **production-grade AI systems** using SOTA research across Knowledge Grpahs, Drug Discovery, LLMs, RAG, multi-agent architectures, and scalable MLOps pipelines.
 
@@ -47,13 +47,7 @@ I build **production-grade AI systems** using SOTA research across Knowledge Grp
 - 🔍 Detects anomalies without labeled data
 
 ---
-## 📫 Connect With Me
 
-- 🌐 Portfolio: https://adnankarim.dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/adnan-karim-dl  
-- 📧 Email: adnankaremjs@gmail.com  
-
----
 
 ## ⚡ Fun Fact
 
