@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adnan Karim
 
 🚀 AI Engineer 
-🎓 MSc Data Science 
+🎓 MSc Computer Science Data Science & AI
 
 I build **production-grade AI systems** using SOTA research across Knowledge Grpahs, Drug Discovery, LLMs, RAG, multi-agent architectures, and scalable MLOps pipelines.
 
